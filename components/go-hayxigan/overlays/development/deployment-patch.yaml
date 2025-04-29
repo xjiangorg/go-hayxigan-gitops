@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/quay_xjiang/go-hayxigan:ef3c3c99882fb30a47bbec7df0625ce7b18afdaa@sha256:eaad6ebb0b2fc0dd161cf1fe764c3d1d3aa90401e4e6e8c38b3e67e9fa3e93fe
+        - image: quay.io/quay_xjiang/go-hayxigan:1ad34438a2630e1b2cff8bf6158539a8b5903953@sha256:2771cae0a1f41b759539039a169d3c9d3b96072dc05d04f84b8374717a2d12a7
           name: container-image
